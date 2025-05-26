@@ -361,7 +361,7 @@ The workflow will build the image and push it to:
 
 ```text
 ghcr.io/<your-username>/<repo-name>:v1
-```
+``` 
 
 You can verify it under your GitHub profile → **Packages**.
 
